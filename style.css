@@ -26,16 +26,18 @@ body{
     height: 490px;
     margin: 5px;
     border: 1px solid black;
+    box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
 
 .two{
     height: 245px;
     border-bottom: 1px solid black;
+    box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
 
 .four{
     height: 245px;
-    
+    box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
 
 .six{
@@ -48,4 +50,5 @@ body{
     flex: 50%;
     margin: 5px;
     border: 1px solid black;
+    box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
