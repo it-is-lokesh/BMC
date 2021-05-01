@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+
+}
+
+*{
+    box-sizing: border-box;
+    
+}
+
+.outer{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 700px;
+    
+}
+
+.inner1{
+    display: flex;
+    flex-direction: row;
+}
+
+.one{
+    flex: 20%;
+    height: 490px;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.two{
+    height: 245px;
+    border-bottom: 1px solid black;
+}
+
+.four{
+    height: 245px;
+    
+}
+
+.six{
+    height: 200px;
+    display: flex;
+}
+
+.five{
+    height: 190px;
+    flex: 50%;
+    margin: 5px;
+    border: 1px solid black;
+}
