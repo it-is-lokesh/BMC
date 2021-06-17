@@ -25,7 +25,7 @@ body{
     flex: 20%;
     height: 490px;
     margin: 5px;
-    border: 1px solid black;
+    
     box-shadow: 2px 5px 5px rgb(255, 0, 140);
     
     
@@ -41,7 +41,7 @@ li{
 
 .two{
     height: 230px;
-    border-bottom: 1px solid black;
+    
     box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
 
@@ -59,6 +59,6 @@ li{
     height: 190px;
     flex: 50%;
     margin: 5px;
-    border: 1px solid black;
+    
     box-shadow: 2px 5px 5px rgb(255, 0, 140);
 }
